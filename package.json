@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.47.1",
     "@types/node": "^22.5.5"
+  },
+  "dependencies": {
+    "@reactive/utils": "npm:@jsr/reactive__utils@^0.5.54"
   }
 }
