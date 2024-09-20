@@ -21,7 +21,7 @@ const main = async () => {
     // //   await page.goto("https://example.com");
     // await page.screenshot({ path: "example.png" });
 
-    await page.close();
+    // await page.close();
     await context.close();
     await browser.close();
 };
